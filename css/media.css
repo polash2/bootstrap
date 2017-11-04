@@ -1,0 +1,149 @@
+@media (max-width:767px){
+    .header {
+    margin-bottom: 15px;
+    height: 80px;
+    background-color: #A2C7F8;
+        padding-left: 0px;
+}
+
+.brand {
+
+    min-height: 25px;
+
+    background-color: #D4E5FC;
+
+    margin: 6px 10px;
+   
+}
+
+.global-nov {
+
+
+    min-height: 20px;
+
+    background-color: #D4E5FC;
+
+    margin: 19px 10px;
+}
+
+.tools {
+
+
+    min-height: 20px;
+
+    background-color: #D4E5FC;
+
+    margin: 19px 10px;
+}
+
+.hiro {
+    background-color: #A2C7F8;
+    height: 70px;
+}
+    .hiro-call {
+
+    
+min-height: 20px;
+
+background-color: #D4E5FC;
+
+margin: 15px 15px;
+}
+
+.ad {
+    background-color: #6EA7DA;
+    height: 30px;
+    margin:0px 10px;
+
+}
+    .content{
+    }
+.body {
+    background-color: #A2C7F8;
+    height: 200px;
+}
+
+.article-feature {
+    min-height: 50px;
+    background-color: #D4E5FC;
+  
+    margin: 10px 10px;
+}
+
+.article-listing {
+     min-height: 80px;
+    background-color: #D4E5FC;
+  
+    margin: 5px 10px;
+
+}
+
+.sidebar {
+    padding: 38px 10px;
+    background-color: #A2C7F8;
+    height: 300px;
+}
+
+.footer {
+    min-height: 57px;
+    background-color: #A2C7F8;
+ 
+    margin-top: 10px;
+}
+}
+
+@media (min-width:768px) and (max-width: 991px) { 
+.hiro-feature {
+    min-height: 35px;
+    background-color: #D4E5FC;
+    margin: 25px 15px;
+}
+    .hiro-call {
+    min-height: 38px;
+    background-color: #D4E5FC;
+    margin: 25px 15px;
+}
+    .article-listing {
+    min-height: 180px;
+    background-color: #D4E5FC;
+    margin: 38px 10px;
+}
+    .body {
+    background-color: #A2C7F8;
+    height: 400px;
+}
+   .ad {
+    background-color: #6EA7DA;
+    height: 116px;
+    margin: 24px 1px;
+} 
+    
+   .article-feature {
+    min-height: 103px;
+    background-color: #D4E5FC;
+    margin: 30px 4px;
+} 
+ .sidebar-feature {
+    min-height: 55px;
+    background-color: #D4E5FC;
+}  
+    .sidebar {
+    padding: 10px 10px;
+    background-color: #A2C7F8;
+    height: 100px;
+    margin: 4px;
+}
+    .footer {
+    background-color: #A2C7F8;
+    height: 50px;
+    margin-top: 15px;
+}
+}
+   
+@media (min-width: 992px) and (max-width: 1199px) { 
+
+}
+@media (min-width: 1200px) { 
+
+
+}
